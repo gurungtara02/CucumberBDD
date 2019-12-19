@@ -35,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="JUnit.facebookfriendlist.faceBook">
     <configuration name="AppTest.openBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -165,10 +165,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="435" y="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.760@0.0.1280.760" timestamp="1576697677232" />
-    <state x="422" y="122" key="FileChooserDialogImpl" timestamp="1576186118077">
+    <state x="422" y="122" key="FileChooserDialogImpl" timestamp="1576787154719">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="422" y="122" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1576186118077" />
+    <state x="422" y="122" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1576787154719" />
     <state width="1238" height="134" key="GridCell.Tab.0.bottom" timestamp="1576701569618">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -185,10 +185,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state width="1238" height="134" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1576701569618" />
-    <state x="142" y="22" key="SettingsEditor" timestamp="1576785652095">
+    <state x="142" y="22" key="SettingsEditor" timestamp="1576787157359">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1576785652095" />
+    <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1576787157359" />
     <state x="336" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1576784043005">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
