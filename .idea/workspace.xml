@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="98e45aee-2f18-4cdb-9ab3-6b8ef83327d0" name="Default Changelist" comment="" />
+    <list default="true" id="98e45aee-2f18-4cdb-9ab3-6b8ef83327d0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chromedriver__.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver_old.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment/_1VerifyTitle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment/_2SearchSaree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment/_4FooterListVerify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment/_5NewLetterVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Assignment/_6ScrollBarVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_8CucumberBDD/Features/facebook.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_8CucumberBDD/Features/gmaillogin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_8CucumberBDD/Features/sum.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_8CucumberBDD/Runner/Regression_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_8CucumberBDD/Runner/Smoke_Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/_8CucumberBDD/StepsDef/MyStepdefs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tables/_1SumTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tables/_1SumTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/san/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/san/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/facebook/facebookfriendlist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/facebook/facebookfriendlist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/san/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/san/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tables/_1SumTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Tables/_1SumTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/san/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/san/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/facebook/facebookfriendlist.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +53,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1UrF1U3MiXV1AXGOws0PU2Iea8g" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,83 +64,99 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="JUnit.facebookfriendlist.faceBook">
-    <configuration name="AppTest.openBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AutomationWithJavaSelenium\OpenBrowser\src\test\java\_8CucumberBDD\Features" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AutomationWithJavaSelenium\OpenBrowser" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit._6ScrollBarVerification.verifyScrollBar">
+    <configuration name="Scenario: Validate gmail login page when user and password both are valid" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/_8CucumberBDD/Features/gmaillogin" />
+      <option name="GLUE" value="_8CucumberBDD.StepsDef" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="OpenBrowser" />
+      <option name="NAME_FILTER" value="^Validate gmail login page when user and password both are valid$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Validate gmail login page when user and password both are valid$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate gmail login page when user and password both are valid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.san.*" />
+          <option name="PATTERN" value="cucumber.api.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.san" />
-      <option name="MAIN_CLASS_NAME" value="com.san.AppTest" />
-      <option name="METHOD_NAME" value="openBrowser" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1SumTable" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: Validate gmail login page when user and password is invalid" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/_8CucumberBDD/Features/gmaillogin" />
+      <option name="GLUE" value="_8CucumberBDD.StepsDef" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="OpenBrowser" />
+      <option name="NAME_FILTER" value="^Validate gmail login page when user and password is invalid$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Validate gmail login page when user and password is invalid$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validate gmail login page when user and password is invalid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tables.*" />
+          <option name="PATTERN" value="cucumber.api.cli.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tables" />
-      <option name="MAIN_CLASS_NAME" value="Tables._1SumTable" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Regression_Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OpenBrowser" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="_8CucumberBDD.Runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="_8CucumberBDD.Runner" />
+      <option name="MAIN_CLASS_NAME" value="_8CucumberBDD.Runner.Regression_Runner" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1SumTable.setBrowser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Smoke_Runner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OpenBrowser" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tables.*" />
+          <option name="PATTERN" value="_8CucumberBDD.Runner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tables" />
-      <option name="MAIN_CLASS_NAME" value="Tables._1SumTable" />
-      <option name="METHOD_NAME" value="setBrowser" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="_8CucumberBDD.Runner" />
+      <option name="MAIN_CLASS_NAME" value="_8CucumberBDD.Runner.Smoke_Runner" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_1SumTable.sumSavings" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="_6ScrollBarVerification.verifyScrollBar" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="OpenBrowser" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tables.*" />
+          <option name="PATTERN" value="Assignment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Tables" />
-      <option name="MAIN_CLASS_NAME" value="Tables._1SumTable" />
-      <option name="METHOD_NAME" value="sumSavings" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="facebookfriendlist.faceBook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="OpenBrowser" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="facebook.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="facebook" />
-      <option name="MAIN_CLASS_NAME" value="facebook.facebookfriendlist" />
-      <option name="METHOD_NAME" value="faceBook" />
+      <option name="PACKAGE_NAME" value="Assignment" />
+      <option name="MAIN_CLASS_NAME" value="Assignment._6ScrollBarVerification" />
+      <option name="METHOD_NAME" value="verifyScrollBar" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -119,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.facebookfriendlist.faceBook" />
-        <item itemvalue="JUnit._1SumTable.sumSavings" />
-        <item itemvalue="JUnit._1SumTable" />
-        <item itemvalue="JUnit._1SumTable.setBrowser" />
-        <item itemvalue="JUnit.AppTest.openBrowser" />
+        <item itemvalue="JUnit._6ScrollBarVerification.verifyScrollBar" />
+        <item itemvalue="JUnit.Regression_Runner" />
+        <item itemvalue="JUnit.Smoke_Runner" />
+        <item itemvalue="Cucumber java.Scenario: Validate gmail login page when user and password is invalid" />
+        <item itemvalue="Cucumber java.Scenario: Validate gmail login page when user and password both are valid" />
       </list>
     </recent_temporary>
   </component>
@@ -153,49 +198,105 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576611814314">
+    <state x="233" y="38" key="#Project_Structure" timestamp="1585329497680">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="96" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1576611814314" />
-    <state x="303" y="305" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576697695329">
+    <state x="233" y="38" key="#Project_Structure/0.0.1280.760@0.0.1280.760" timestamp="1585329497680" />
+    <state x="357" y="38" key="#_2AskName" timestamp="1578435218117">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="303" y="305" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1280.760@0.0.1280.760" timestamp="1576697695329" />
-    <state x="435" y="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1576697677232">
+    <state x="357" y="38" key="#_2AskName/0.0.1280.760@0.0.1280.760" timestamp="1578435218117" />
+    <state x="371" y="183" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585250007663">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="435" y="260" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1280.760@0.0.1280.760" timestamp="1576697677232" />
-    <state x="422" y="122" key="FileChooserDialogImpl" timestamp="1576787154719">
+    <state x="371" y="183" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760@0.0.1280.760" timestamp="1585250007663" />
+    <state x="375" y="69" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1578435789230">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="422" y="122" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1576787154719" />
-    <state width="1238" height="134" key="GridCell.Tab.0.bottom" timestamp="1576701569618">
+    <state x="375" y="69" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.760@0.0.1280.760" timestamp="1578435789230" />
+    <state x="490" y="269" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1585248810431">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="134" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1576701569618" />
-    <state width="1238" height="134" key="GridCell.Tab.0.center" timestamp="1576701569618">
+    <state x="490" y="269" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.760@0.0.1280.760" timestamp="1585248810431" />
+    <state x="422" y="122" key="FileChooserDialogImpl" timestamp="1586201399008">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="134" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1576701569618" />
-    <state width="1238" height="134" key="GridCell.Tab.0.left" timestamp="1576701569618">
+    <state x="422" y="122" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1586201399008" />
+    <state width="1082" height="250" key="GridCell.Tab.0.bottom" timestamp="1585937491689">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="134" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1576701569618" />
-    <state width="1238" height="134" key="GridCell.Tab.0.right" timestamp="1576701569618">
+    <state width="1082" height="250" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1585937491689" />
+    <state width="1082" height="250" key="GridCell.Tab.0.center" timestamp="1585937491689">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1238" height="134" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1576701569618" />
-    <state x="142" y="22" key="SettingsEditor" timestamp="1576787157359">
+    <state width="1082" height="250" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1585937491689" />
+    <state width="1082" height="250" key="GridCell.Tab.0.left" timestamp="1585937491689">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="142" y="22" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1576787157359" />
-    <state x="336" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1576784043005">
+    <state width="1082" height="250" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1585937491689" />
+    <state width="1082" height="250" key="GridCell.Tab.0.right" timestamp="1585937491689">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="336" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1576784043005" />
-    <state x="65" y="75" key="new project wizard" timestamp="1576186123238">
+    <state width="1082" height="250" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1585937491689" />
+    <state width="619" height="2" key="GridCell.Tab.1.bottom" timestamp="1585773630446">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="65" y="75" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1576186123238" />
+    <state width="619" height="2" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1585773630446" />
+    <state width="619" height="2" key="GridCell.Tab.1.center" timestamp="1585773630446">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="619" height="2" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1585773630446" />
+    <state width="619" height="2" key="GridCell.Tab.1.left" timestamp="1585773630446">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="619" height="2" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1585773630446" />
+    <state width="619" height="2" key="GridCell.Tab.1.right" timestamp="1585773630446">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="619" height="2" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1585773630446" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1585333288580">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1585333288580" />
+    <state width="821" height="758" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1585330640743">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="821" height="758" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1280.760@0.0.1280.760" timestamp="1585330640743" />
+    <state x="336" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1586200954603">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="336" y="204" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1586200954603" />
+    <state x="333" y="0" width="613" height="760" key="find.popup" timestamp="1585249407746">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="333" y="0" width="613" height="760" key="find.popup/0.0.1280.760@0.0.1280.760" timestamp="1585249407746" />
+    <state x="65" y="2" key="new project wizard" timestamp="1578353692300">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="65" y="2" key="new project wizard/0.0.1280.760@0.0.1280.760" timestamp="1578353692300" />
+    <state x="394" y="301" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1585852830389">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="394" y="301" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog/0.0.1280.760@0.0.1280.760" timestamp="1585852830389" />
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup" timestamp="1585330302938">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="303" y="82" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1585330302938" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tables/_1SumTable.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Tables/_1SumTable.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

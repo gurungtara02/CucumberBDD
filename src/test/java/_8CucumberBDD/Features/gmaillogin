@@ -1,0 +1,23 @@
+Feature: Gmail login page
+
+  @Regression
+  Scenario: Validate gmail login page when user and password both are valid
+
+    Given User is in gmail login page
+    When Enters valid user in user Field
+    And Click next button
+    And enters valid password in password field
+    And Click on next button to login
+    Then User is on email profile page
+
+  @Smoke
+  Scenario: Validate gmail login page when user and password is invalid
+
+    Given User is in gmail login page
+    When Enters valid user in user Field
+    And Click next button
+    And enters invalid password in password field
+    And Click on next button to login
+    Then Verify the error message in login page
+
+

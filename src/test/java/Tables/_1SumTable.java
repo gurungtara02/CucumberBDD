@@ -22,7 +22,7 @@ public class _1SumTable {
     public void setBrowser()
     {
         //JUNIT, @Before, @Test and @After
-        System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver", "chromedriver_old.exe");
         wd = new ChromeDriver();
         wd.get("https://www.computerhope.com/jargon/h/html-tr-tag.htm");
         wd.manage().window().maximize();

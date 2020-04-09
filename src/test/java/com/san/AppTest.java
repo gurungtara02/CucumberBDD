@@ -9,7 +9,7 @@ public class AppTest
 {
     @Test
     public void openBrowser() throws InterruptedException {
-        System.setProperty("webdriver.chrome.driver","chromedriver.exe");
+        System.setProperty("webdriver.chrome.driver","chromedriver_old.exe");
         WebDriver wd = new ChromeDriver();
 
         wd.manage().window().maximize();
@@ -26,7 +26,12 @@ public class AppTest
         Thread.sleep(3000);
 
         WebElement elementPassword = wd.findElement(By.xpath("//*[@id='password']/div[1]/div/div[1]/input"));
-        elementPassword.sendKeys("jjgj");
+        elementPassword.sendKeys("***");
+
+        WebElement btnNext = wd.findElement(By.id("passwordNext"));
+        btnNext.click();
+
+
 
 
         Thread.sleep(3000);
